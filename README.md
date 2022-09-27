@@ -21,3 +21,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gentahal&show_icons=true&locale=en" alt="gentahal" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gentahal&" alt="gentahal" /></p>
+
+[![@genta's Holopin board](https://holopin.io/api/user/board?user=genta)](https://holopin.io/@genta)
+
