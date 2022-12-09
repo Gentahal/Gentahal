@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Genta Halilintar</h1>
 <h3 align="center">Beginner Software Engineering</h3>
 
-- 🌱 I’m currently learning **Kotlin,Dart,javaScript**
+- 🌱 I’m currently learning **Kotlin,Dart,javaScript,Bootstrap**
 
 - 📫 How to reach me **gentahalilintar36@gmaill.com**
 
