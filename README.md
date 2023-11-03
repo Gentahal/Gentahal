@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kotlin,javaScript,Laravel**
 
-- 📫 How to reach me **gentahalilintar36@gmaill.com**
+- 📫 How to reach me **gentadev2021@gmaill.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
