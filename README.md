@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Genta Halilintar</h1>
 <h3 align="center">I'am Junior Web Developer</h3>
 
-- 🌱 I’m currently learning **Kotlin,javaScript,Laravel**
+- 🌱 I’m currently learning
 
 - 📫 How to reach me **gentadev2021@gmaill.com**
 
