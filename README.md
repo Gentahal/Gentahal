@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Genta Halilintar</h1>
 
-- 🌱 I’m still learning
-
 - 📫 How to reach me **gentahalilintar36@gmaill.com**
 
 <h3 align="left">Connect with me:</h3>
